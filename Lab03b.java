@@ -22,6 +22,7 @@ public class Lab03b {
 				}
 				else{
 					System.out.print("Num must be > 0 and < 100 !");
+					s.next();
 				}
 			}
 			else{
